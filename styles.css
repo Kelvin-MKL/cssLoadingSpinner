@@ -26,20 +26,20 @@
 }
 
 .spinner-sector-red{
-    border-left-color: lightcoral;
+    border-left-color: chocolate;
     --duration: 1.5s;
     --timing: ease-in-out;
     
 }
 
 .spinner-sector-blue{
-    border-right-color: lightblue;
+    border-right-color: darkred;
     --duration: 1.4s;
     --timing: ease-in;
 }
 
 .spinner-sector-green{
-    border-top-color: lightgreen;
+    border-top-color:orange;
     --duration: 1.3s;
     --timing: ease-out;
 }
